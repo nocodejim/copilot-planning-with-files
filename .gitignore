@@ -1,0 +1,19 @@
+# Example planning files (users create their own)
+/task_plan.md
+/findings.md
+/progress.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs (except .github which is the whole point)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.swp
