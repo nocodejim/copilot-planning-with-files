@@ -102,6 +102,15 @@ Verifies all phases complete before you close.
 | Goal tracking | Checkboxes show progress |
 | Completion verification | /check-complete command |
 
+## Copilot Memory & MCP (2026 Updates)
+
+This repository is optimized for the latest GitHub Copilot features:
+
+-   **Copilot Memory**: Enable "Copilot Memory" in your settings. This allows Copilot to retain context across sessions. *However*, you should still use planning files for **structured** planning (roadmap, tasks, errors) while letting Copilot Memory handle **unstructured** context (codebase understanding).
+-   **Model Context Protocol (MCP)**: You can use MCP servers alongside this workflow. If you use MCP tools to fetch data, log the key results in `findings.md` to ensure they are visible to the planning skill.
+-   **Agent Skills**: This repo uses the standard `.github/skills/` directory for Agent Skills.
+
+
 ## Documentation
 
 - [Quick Start Guide](docs/quickstart.md) — 5-step walkthrough

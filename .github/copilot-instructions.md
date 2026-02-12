@@ -13,7 +13,9 @@ Filesystem = Disk (persistent, unlimited)
 
 ## The Three Planning Files
 
-When working on complex tasks (3+ steps, research, multi-file projects), you will use:
+When working on complex tasks (3+ steps, research, multi-file projects), you will use these files.
+
+> **Tip:** Enable **Copilot Memory** in your settings! It helps Copilot remember your codebase usage, while these files help it remember your *plan*.
 
 1. **task_plan.md** — Roadmap with phases, progress tracking, decisions, errors
 2. **findings.md** — Research discoveries, technical decisions, resources
