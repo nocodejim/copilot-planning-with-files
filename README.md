@@ -11,7 +11,7 @@ Use persistent markdown files for planning, progress tracking, and knowledge sto
 
 1. **Clone this repository into your project:**
    ```bash
-   git clone https://github.com/[username]/copilot-planning-with-files .github-planning
+   git clone https://github.com/nocodejim/copilot-planning-with-files .github-planning
    cp -r .github-planning/.github/* .github/
    rm -rf .github-planning
    ```
@@ -164,5 +164,5 @@ MIT License — feel free to use, modify, and distribute.
 
 ---
 
-**Author:** [Your Name]
+**Author:** nocodejim
 **Original Pattern:** Based on [planning-with-files](https://github.com/OthmanAdi/planning-with-files) by OthmanAdi
