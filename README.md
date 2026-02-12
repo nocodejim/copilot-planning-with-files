@@ -34,6 +34,8 @@ On December 29, 2025, Meta acquired Manus for $2 billion. Their secret? **Contex
 
 ### The Problem
 
+![The Problem: Context Amnesia](assets/copilot_problem_chaos.png)
+
 GitHub Copilot (like most AI) suffers from:
 - **Volatile memory** — Context resets, goals forgotten
 - **Goal drift** — After long sessions, original goals get lost
@@ -41,6 +43,8 @@ GitHub Copilot (like most AI) suffers from:
 - **Context limits** — 64k-128k tokens, then auto-compaction
 
 ### The Solution: 3-File Pattern
+
+![The Solution: 3-File Pattern](assets/copilot_solution_structure.png)
 
 For every complex task, create THREE files:
 
